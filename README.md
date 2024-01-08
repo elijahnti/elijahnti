@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @elijahnti
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Mobile App Developing 
-- 💞️ I’m looking to collaborate on Machine Learnig
-- 📫 How to reach me mac.donald.nti ("on instagram") 
+- 💞️ I’m looking to collaborate on Machine learning
+- 📫 How to reach menti.elijah175@gmail.com 
 
 <!---
 elijahnti/elijahnti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
